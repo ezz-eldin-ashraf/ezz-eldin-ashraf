@@ -1,7 +1,5 @@
 <h2 align="center"> I'm Ezz El-din Ashraf</h2>
-<hr />
 <h3 align="center"> Front-End Developer with interest in cyber security</h3>
-<hr />
 ###
 
 <div align="center">
